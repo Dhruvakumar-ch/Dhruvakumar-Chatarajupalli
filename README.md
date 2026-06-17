@@ -50,7 +50,6 @@ I'm a passionate MS Health Data Science student with 3+ years of experience in d
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvakumar-chatarajupalli-048aaa2a8)
 
-[![Medium Badge](https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 
 </div>
 
